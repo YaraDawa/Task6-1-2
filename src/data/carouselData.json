@@ -1,0 +1,16 @@
+    {
+        "slides": [
+        {
+            "src": "https://images.unsplash.com/photo-1544965850-6f8a66788f9b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU3fHxuYXR1cmV8ZW58MHx8MHx8fDA%3D",
+            "alt": "Image 1 for carousel"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1499002238440-d264edd596ec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTh8fG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D",
+            "alt": "Image 2 for carousel"
+        },
+        {
+            "src": "https://images.unsplash.com/photo-1462216589242-9e3e00a47a48?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI2fHxuYXR1cmV8ZW58MHx8MHx8fDA%3D",
+            "alt": "Image 3 for carousel"
+        }
+        ]
+    }
